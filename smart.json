@@ -1,0 +1,8 @@
+{
+  "name": "csvjson",
+  "description": "Meteor package for csv to json and json to csv conversion",
+  "homepage": "https://github.com/driift/csvjson",
+  "author": "DRIIFT",
+  "version": "1.0.2",
+  "git": "https://github.com/driift/csvjson.git"
+}
